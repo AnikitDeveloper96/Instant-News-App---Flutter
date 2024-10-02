@@ -16,7 +16,6 @@ Welcome to the InstantNews App, a feature-rich mobile application that provides 
 
 # Android Screen
 <img height="480px" src="screenshots/0.jpeg">
-<img height="480px" src="screenshots/image1jpeg">
 <img height="480px" src="screenshots/1.jpeg">
 <img height="480px" src="screenshots/3.jpeg">
 <img height="480px" src="screenshots/4.jpeg">
@@ -34,7 +33,3 @@ Welcome to the InstantNews App, a feature-rich mobile application that provides 
 
 We value your feedback and contributions. If you have suggestions or want to contribute to this project, please feel free to reach out.
 
-Let's make staying updated a delightful experience together! 🌍📲
-# Instant-News-App
-# Instant-News-App---Flutter
-# Instant-News-App---Flutter
